@@ -1,0 +1,23 @@
+{
+  "name": "recipeapp",
+  "version": "1.0.0",
+  "description": "Recipe Application",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Kartik",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.2",
+    "parcel": "^2.6.2"
+  },
+  "dependencies": {
+    "core-js": "^3.23.3",
+    "fractional": "^1.0.0",
+    "html2canvas": "^1.4.1",
+    "regenerator": "^0.14.7",
+    "runtime": "^0.14.1"
+  }
+}

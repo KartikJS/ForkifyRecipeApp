@@ -5,7 +5,7 @@
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dist"
+    "build": "parcel build index.html --no-scope-hoist"
   },
   "author": "Kartik",
   "license": "ISC",
@@ -16,7 +16,6 @@
   "dependencies": {
     "core-js": "^3.23.3",
     "fractional": "^1.0.0",
-    "html2canvas": "^1.4.1",
     "regenerator": "^0.14.7",
     "runtime": "^0.14.1"
   }

@@ -6,10 +6,6 @@ yarn-debug.log*
 yarn-error.log*
 firebase-debug.log*
 firebase-debug.*.log*
-forkify-flowchart-part-1
-forkify-flowchart-part-2
-forkify-flowchart-part-3
-.gitignore
 dist
 # Firebase cache
 .firebase/

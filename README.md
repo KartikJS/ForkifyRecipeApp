@@ -1,6 +1,6 @@
 # Forkify
 
-![App Screenshot](src/img/forkify.png)
+![App Screenshot](https://kartikjs.netlify.app/assets/img/forkify.png)
 
 ## Demo
 

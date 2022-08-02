@@ -2,6 +2,10 @@
 
 ![App Screenshot](src/img/forkify.png)
 
+## Demo
+
+[View Demo](https://forkify-recipe-demo.netlify.app/)
+
 ## About The Project
 
 Forkify is a recipe search application build using
